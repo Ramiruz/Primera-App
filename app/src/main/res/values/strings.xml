@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesarrolloDeSoftware</string>
+    <string name="nombre">Nombre</string>
+    <string name="txt_boton">Siguiente</string>
+    <string name="caja1">Andres</string>
+    <string name="caja2">Ramirez T</string>
+    <string name="caja3">123</string>
+    <string name="caja4">Cartagena</string>
+    <string name="caja5">Ing</string>
+</resources>
